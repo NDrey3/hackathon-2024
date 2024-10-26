@@ -76,7 +76,7 @@ justify-content: space-between;
  } 
 
 main {
-  /*height: 100vh;*/
+  height: 100vh;
 }
 .f1 {
   position: relative;
