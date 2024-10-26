@@ -19,7 +19,7 @@ body {
   margin: auto;
   background-color: #A8F2FF;
   width: 1440px;
-  min-height: 1024px;
+  /*min-height: 1024px;*/
   height: 100vh;
   /*background-image: url('../public/Main.jpg');
   background-size: cover;
